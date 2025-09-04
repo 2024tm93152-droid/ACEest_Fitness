@@ -205,9 +205,14 @@ tests/test_fitness.py ...                                                       
 
 Test coverage badge - 
 
-[![CI Pipeline](https://github.com/2024tm93152-droid/ACEest_Fitness/actions/workflows/ci.yml/badge.svg)](https://github.com/2024tm93152-droid/ACEest_Fitness/actions)
-
 [![codecov](https://codecov.io/gh/2024tm93152-droid/ACEest_Fitness/branch/main/graph/badge.svg)](https://codecov.io/gh/2024tm93152-droid/ACEest_Fitness)
+
+
+Important links - 
+
+GitHub Repo - https://github.com/2024tm93152-droid/ACEest_Fitness.git
+
+[![CI Pipeline](https://github.com/2024tm93152-droid/ACEest_Fitness/actions/workflows/ci.yml/badge.svg)](https://github.com/2024tm93152-droid/ACEest_Fitness/actions)
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/amruthaav03/aceest-fitness)](https://hub.docker.com/r/amruthaav03/aceest-fitness)
 
