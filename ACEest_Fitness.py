@@ -13,7 +13,7 @@ class WorkoutManager:
 
 
 # Optional Tkinter GUI (only runs locally, not in Docker/CI)
-if __name__ == "__main__":
+if __name__ == "__main__": # pragma: no cover
     import tkinter as tk
     from tkinter import messagebox
 
